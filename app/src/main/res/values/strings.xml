@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalcIMC</string>
+    <string name="tv_massa">Massa:</string>
+    <string name="tv_altura">Altura:</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_voltar">Voltar</string>
+</resources>
